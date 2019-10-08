@@ -1,0 +1,7 @@
+C:\Users\nesto\OneDrive\Escritorio\Proyecto\programcine\programcine\bin\Debug\programcine.exe.config
+C:\Users\nesto\OneDrive\Escritorio\Proyecto\programcine\programcine\bin\Debug\programcine.exe
+C:\Users\nesto\OneDrive\Escritorio\Proyecto\programcine\programcine\bin\Debug\programcine.pdb
+C:\Users\nesto\OneDrive\Escritorio\Proyecto\programcine\programcine\obj\Debug\programcine.csprojAssemblyReference.cache
+C:\Users\nesto\OneDrive\Escritorio\Proyecto\programcine\programcine\obj\Debug\programcine.csproj.CoreCompileInputs.cache
+C:\Users\nesto\OneDrive\Escritorio\Proyecto\programcine\programcine\obj\Debug\programcine.exe
+C:\Users\nesto\OneDrive\Escritorio\Proyecto\programcine\programcine\obj\Debug\programcine.pdb
