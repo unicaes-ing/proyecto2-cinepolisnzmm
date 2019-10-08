@@ -45,7 +45,7 @@ namespace programcine
                     Console.WriteLine();
                     Console.WriteLine("  Cantidad de ventas por adulto: "+pago.bap1);
                     Console.WriteLine();
-                    Console.WriteLine("  Cantidad de ventas por adulto mayoy: "+pago.bamp1);
+                    Console.WriteLine("  Cantidad de ventas por adulto mayor: "+pago.bamp1);
                     Console.WriteLine();
                     Console.WriteLine("  Total de ventas por pelicula: "+pago.peli1);
                     Console.WriteLine();
@@ -62,7 +62,7 @@ namespace programcine
                     Console.WriteLine();
                     Console.WriteLine("  Cantidad de ventas por adulto: " + pago.bap2);
                     Console.WriteLine();
-                    Console.WriteLine("  Cantidad de ventas por adulto mayoy: " + pago.bamp2);
+                    Console.WriteLine("  Cantidad de ventas por adulto mayor: " + pago.bamp2);
                     Console.WriteLine();
                     Console.WriteLine("  Total de ventas por pelicula: " + pago.peli2);
                     Console.WriteLine();
@@ -79,7 +79,7 @@ namespace programcine
                     Console.WriteLine();
                     Console.WriteLine("  Cantidad de ventas por adulto: " + pago.bap3);
                     Console.WriteLine();
-                    Console.WriteLine("  Cantidad de ventas por adulto mayoy: " + pago.bamp3);
+                    Console.WriteLine("  Cantidad de ventas por adulto mayor: " + pago.bamp3);
                     Console.WriteLine();
                     Console.WriteLine("  Total de ventas por pelicula: " + pago.peli3);
                     Console.WriteLine();
@@ -96,7 +96,7 @@ namespace programcine
                     Console.WriteLine();
                     Console.WriteLine("  Cantidad de ventas por adulto: " + pago.bap4);
                     Console.WriteLine();
-                    Console.WriteLine("  Cantidad de ventas por adulto mayoy: " + pago.bamp4);
+                    Console.WriteLine("  Cantidad de ventas por adulto mayor: " + pago.bamp4);
                     Console.WriteLine();
                     Console.WriteLine("  Total de ventas por pelicula: " + pago.peli4);
                     Console.WriteLine();
